@@ -11,7 +11,7 @@ Each script automates a real-life task like searching on YouTube, checking produ
 - ✅ Search for Android phones under 15k on Amazon  
 - ✅ Fetch the latest news links from YouTube and paste them into Notepad  
 - ✅ Beginner-friendly & easy to customize  
-- ✅ Works with **Chrome** and **Windows**  
+- ✅ Works with **Chrome** and **Windows** & **Mac too**
 
 ---
 
